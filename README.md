@@ -23,34 +23,6 @@ A hands-on project documenting my journey of learning React and Next.js.
 - Lucide React
 - Git and GitHub
 
-## Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/silent-43/nextjs-learning-journey.git
-```
-
-Go to the project directory:
-
-```bash
-cd nextjs-learning-journey
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Open http://localhost:3000 in your browser.
-
 ## Learning Goals
 
 - Understand Next.js routing and navigation
@@ -68,4 +40,5 @@ More features will be added as I progress.
 ---
 
 Built by Sohag Karmokar
+
 # nextjs-learning-journey
